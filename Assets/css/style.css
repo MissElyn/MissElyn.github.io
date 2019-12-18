@@ -9,17 +9,16 @@
 h1
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 16px;
-    color:  #ffffff;
+    color: #ffffff;
 
 
-
-#navbR{
-  background-color: #4aaaa5;
-  height: 20px;
-  width: 280px;
-  padding-right: 32px;
-  
-;
-
+#content
+{
+  background-color: #ffffff;
+  height: 760px;
+  width: 960px;
+  border-radius: 3px;
+  border-color: #dddddd;
+  padding: 30px;
 
 }
