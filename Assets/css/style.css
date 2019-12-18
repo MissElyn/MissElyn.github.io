@@ -1,26 +1,25 @@
+#header{
+  background-color: #4aaaa5;
+  height: 20px;
+  width: 230px;
+  border:0px #4aaaa5;
+  padding-left: 1%;
+  margin-left: 3.125%;
+  
+h1
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color:  #ffffff;
 
-.hoodie {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 15%;
-  border: maroon;
-  border-block-start-color: midnightblue;
-  border-block-end-color: olivedrab;
-  border-width: 28pt;
-  border-style: groove    }
 
 
-h1 {
-  color:midnightblue
+#navbR{
+  background-color: #4aaaa5;
+  height: 20px;
+  width: 280px;
+  padding-right: 32px;
+  
+;
+
+
 }
-
-h2 {
-  color:olivedrab
-}
-
-h4 {
-  color:maroon;
-  text-align:center;
-}
-
