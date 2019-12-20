@@ -17,3 +17,9 @@
         <a href="#contact">Contact</a>
         <a href="#about">About</a>
       </div>
+
+
+      
+.container{
+width:80%;
+margin:auto
