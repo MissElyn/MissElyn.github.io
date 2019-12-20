@@ -1,24 +1,31 @@
 #header{
-  background-color: #4aaaa5;
-  width: 130px;
+ 
+  width: 200px;
   padding: 10px;
   margin-left: 5%;
   border-width: 2px;
-  border: gray
+  background-color: #4aaaa5;
+  border: gray;
 }
 
 h1{
     font-family: 'Georgia', 'Times', 'Times New Roman', serif;
-    font-size: 16px;
+    height: 24px;
+    font-size: 24px;
     color: #ffffff;
 }
-
+h2{
+  font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+  font-size: 24px;
+  color: #4aaaa5;
+}
 
 .topnav{
   font-family: 'Georgia', 'Times', 'Times New Roman', serif;
   font-size: 16px;
-  text-align: top right;
+  float: right;
 }
+
 
 img{
 
