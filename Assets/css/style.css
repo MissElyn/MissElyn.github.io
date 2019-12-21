@@ -1,4 +1,3 @@
-
 #header{
   width: 200px;
   margin-left: 5%;
@@ -17,6 +16,8 @@ h2{
   font-family: 'Georgia', 'Times', 'Times New Roman', serif;
   font-size: 24px;
 }
+
+
 .container{
   width:90%;
   margin: 5%
@@ -52,6 +53,9 @@ h3{
     margin-left: 5%;
 }
 
+
+
+
   .my-form {
     padding: 20px;
   }
@@ -64,9 +68,23 @@ h3{
       display: block;
   }
 
-.form-group input {
+.form-group input[type='text'] {
   padding: 8px;
   width: 40%
+  }
+
+.form-group textarea {
+  padding: 8px;
+  width: 40%
+  }
+
+  .form-group input[type="submit"]{
+    background: #333333;
+    color: #ffffff;
+    padding: 10px 15px;
+    border: none;
+
+
   }
 
   

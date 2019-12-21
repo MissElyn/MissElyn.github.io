@@ -35,3 +35,17 @@ margin:auto
   padding: 30px;
 
 <div class="container">
+
+
+
+<div>
+<link id="contact.html">
+</div>
+
+<div>
+<link id="emil.html">
+</div>
+
+<div>
+<link id="portfolio.html">
+  </div>
