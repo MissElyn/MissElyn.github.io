@@ -8,8 +8,6 @@
   background-color: #4aaaa5;
 }
 
-
-
 h1{
     font-family: 'Georgia', 'Times', 'Times New Roman', serif;
     height: 24px;
@@ -20,17 +18,11 @@ h1{
 h2{
   font-family: 'Georgia', 'Times', 'Times New Roman', serif;
   font-size: 24px;
-  color: #4aaaa5;
-  float: left;
-  margin-left: 5%;
 }
-
-
-.topnav{
-  font-family: 'Georgia', 'Times', 'Times New Roman', serif;
-  font-size: 16px;
+.container{
+  width:90%;
+  margin: 5%
 }
-
 
 img{
 float: left;
@@ -39,12 +31,13 @@ padding-right: 10px;
 padding-bottom: 10px;
 }
 
-.container{
-  width:90%;
-  margin:auto;
-  
-  
-  }
+.topnav{
+  font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+  font-size: 16px;
+}
+
+
+
 
   #bg1 {
     min-height: 100%;

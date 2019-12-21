@@ -34,4 +34,4 @@ margin:auto
   border-color: #dddddd;
   padding: 30px;
 
-
+<div class="container">
