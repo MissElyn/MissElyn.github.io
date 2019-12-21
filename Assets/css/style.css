@@ -2,17 +2,12 @@
 
 
 #header{
-  width: 90%;
-  margin-left: 5%;
-  background-color: #ffffff;
-}
-
-.box1{
   width: 200px;
   margin-left: 5%;
   border-bottom: 4px gray;
   background-color: #4aaaa5;
 }
+
 
 
 h1{
@@ -30,15 +25,7 @@ h2{
   margin-left: 5%;
 }
 
-h3{
-  font-family: 'Georgia', 'Times', 'Times New Roman', serif;
-  height: 24px;
-  font-size: 24px;
-  color: #4aaaa5;
-  float: left;
-  margin-left: 5%;
 
-}
 .topnav{
   font-family: 'Georgia', 'Times', 'Times New Roman', serif;
   font-size: 16px;
@@ -46,7 +33,6 @@ h3{
 
 
 img{
-
 float: left;
 padding-top: 10px;
 padding-right: 10px;
