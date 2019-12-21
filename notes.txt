@@ -27,4 +27,11 @@ margin:auto
 }
 
 
+#content{
+  background-color: #ffffff;
+  width: 80%;
+  border-radius: 3px;
+  border-color: #dddddd;
+  padding: 30px;
+
 
